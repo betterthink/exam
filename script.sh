@@ -1,3 +1,3 @@
 #!/bin/bash
-touch time.txt 
-date > time.txt
+touch time.txt
+date +%T > time.txt 
